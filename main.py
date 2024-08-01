@@ -1,3 +1,7 @@
+'''
+This module is used to test a github action with a simple function
+'''
+
 def main():
     '''
     This function prints "Worflow done !"
@@ -6,3 +10,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
